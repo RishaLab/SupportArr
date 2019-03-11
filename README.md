@@ -1,2 +1,2 @@
 # SupportArr
-An atom add-on to to visualize pointers
+An Atom Add-On to Visualize Arrays
